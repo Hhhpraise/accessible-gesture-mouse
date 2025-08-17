@@ -1,0 +1,15 @@
+# Accessible Gesture Mouse Control - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Computer Vision and Image Processing
+opencv-python>=4.5.0
+numpy>=1.19.0
+
+# Hand Tracking and Machine Learning
+mediapipe>=0.8.9
+
+# System Mouse Control
+pyautogui>=0.9.50
+
+# Optional: Enhanced performance (uncomment if needed)
+# opencv-contrib-python>=4.5.0  # Additional OpenCV modules
